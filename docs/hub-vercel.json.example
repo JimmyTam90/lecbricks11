@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/letbricks", "destination": "https://lecbricks11.vercel.app/letbricks" },
+    { "source": "/letbricks/:path*", "destination": "https://lecbricks11.vercel.app/letbricks/:path*" }
+  ]
+}
